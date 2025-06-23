@@ -1,15 +1,31 @@
-# Customer-Purchase-Analysis
-Project Summary: Customer Purchase Behavior Analysis
-Dataset: Online Retail Dataset (UCI ML Repo)
-Tech Stack: Python · pandas · seaborn · matplotlib · PyCharm
-Duration: ~2–4 days (complete EDA, visuals, insights)
-Key Insights:
-🏆 Top Product: WHITE HANGING HEART T-LIGHT HOLDER
 
-💰 Top Country by Revenue: United Kingdom (>90% sales)
+# 🛍 Customer Purchase Behavior Analysis
 
-📈 Peak Sales Months: Nov–Dec (holiday season)
+## 📘 Project Overview
+Analyzed 500K+ retail transactions to uncover customer buying patterns and business insights using Python.
 
-👤 Top Customer: ID 14646.0 spent ~£280K
+## 📂 Dataset
+Source: UCI Online Retail Dataset  
+Period: Dec 2010 to Dec 2011  
+Link: [Download Here](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
 
-🔄 High Return Products: can be filtered via Quantity < 0 (optional)
+## 🛠 Tools & Libraries
+- Python
+- pandas, matplotlib, seaborn
+- PyCharm IDE
+
+## 📊 Key Insights
+- UK generates 90%+ of sales
+- Peak in Nov–Dec sales (holiday season)
+- Top customer spent ~£280K
+- Most sold product: Hanging Heart T-Light Holder
+
+## 📈 Visualizations
+Saved in `/visuals/`:  
+- Top-selling products  
+- Revenue by country  
+- Monthly trends  
+- Top customers
+
+## 📌 Status: ✅ Completed
+
